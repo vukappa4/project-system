@@ -6,9 +6,9 @@ One system for every project you run with AI. It gets smarter each time.
 
 Three Markdown files sit in your project root, next to a `<project-name>.md` context file:
 
-- **[claude.md](project-docs/claude.md)** — the map. What the system is, which file holds what, the order to read them. Read it first. Never edit it.
-- **[rules.md](project-docs/rules.md)** — the durable layer. *Global*: the rules you work by, shared by every project. *From this project*: lessons born here that might generalize. Only `/end` adds to it.
-- **[state.md](project-docs/state.md)** — the live handoff. The one file that changes every session. Four sections: **Now**, **Short term**, **Long term**, **Rules & lessons**.
+- **[claude.md](project-docs/claude.md)**. What the system is, which file holds what, the order to read them. Read it first. Never edit it.
+- **[rules.md](project-docs/rules.md)**. *Global*: the rules you work by, shared by every project. *From this project*: lessons born here that might generalize. Only `/end` adds to it.
+- **[state.md](project-docs/state.md)**: the live handoff. The one file that changes every session. Four sections: **Now**, **Short term**, **Long term**, **Rules & lessons**.
 
 The fourth file, `<project-name>.md`, is the project's context — what it is, why it exists, the shared vocabulary. You write it once, before you start.
 
