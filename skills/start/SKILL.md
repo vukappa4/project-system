@@ -23,6 +23,6 @@ Ask one question at a time and wait for my answer before the next. Asking severa
 
 If a question can be answered by exploring the files or the code, explore instead of asking.
 
-Match the depth to the situation: a fresh project needs the full interview; resuming a session means reading `state.md` first and grilling only where the plan is unclear or the ground has shifted.
+Match the depth to the situation: a fresh project needs the full interview; resuming a session means reading `state.md` first and grilling only where the plan is unclear.
 
 Don't write `state.md` here — /end owns that at the session's close.
