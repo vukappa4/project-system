@@ -1,0 +1,12 @@
+# ===== Local-only: the vault explainer =====
+# project-system.md is this folder's <name>.md context file for my private
+# Life vault. In public, README.md is the face of the repo — so keep this out.
+project-system.md
+
+# ===== OS / editor junk =====
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+.idea/
