@@ -33,13 +33,11 @@ Two skills, invoked by hand (`disable-model-invocation: true` — you call them,
 3. Put the `skills/` folder wherever your AI tool loads skills from.
 4. Run `/start`.
 
-`state.md` ships as an empty template. `/end` fills it — there's no "create from template" step.
-
 ## Repo layout
 
 ```
 project-system/
-├── project-docs/        # the three portable files (copied into each project's root)
+├── project-docs/
 │   ├── claude.md
 │   ├── rules.md
 │   └── state.md
@@ -48,4 +46,4 @@ project-system/
     └── end/SKILL.md
 ```
 
-In this repo the three files live under `project-docs/` to keep the root clean — but every reference inside them is a bare, root-relative name (`claude.md`, `rules.md`, `state.md`). That's on purpose: when you copy them into a real project they land in its root, side by side, and the links just work.
+In this repo the three files live under `project-docs/` to keep the root clean — but every reference inside them is a bare, root-relative name (`claude.md`, `rules.md`, `state.md`). That's on purpose: when you copy them into a real project they land in its root and the links just work.
