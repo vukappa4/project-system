@@ -10,7 +10,7 @@ I'm starting a project, or a new session on one. Do these two steps in order.
 
 Before asking me anything, read, in this order:
 
-- `claude.md` — the map of how this system works and what each file holds.
+- `CLAUDE.md` — the map of how this system works and what each file holds (it auto-loads, so it's already in context).
 - The `<name>.md` context file, named after the project folder — what the project is and why it exists. If you can't find it, ask me where it is.
 - `rules.md` — the global rules I work by, plus this project's generalizable lessons.
 - `state.md` — the live handoff from the last session. If it's empty, this is a fresh project.

@@ -8,7 +8,7 @@ A previous session ran out of context mid-task and left a handoff in `state.md`'
 
 ## 1. Get your bearings
 
-Read, in this order: `claude.md`, the `<name>.md` context file, `rules.md`, then `state.md`, with `Continue` as the priority. If `Continue` is empty there's no handoff to resume: stop and run `/start` instead.
+Read, in this order: `CLAUDE.md`, the `<name>.md` context file, `rules.md`, then `state.md`, with `Continue` as the priority. If `Continue` is empty there's no handoff to resume: stop and run `/start` instead.
 
 ## 2. Absorb the handoff
 
